@@ -5,4 +5,8 @@ This is a project where I want to make a modular computer where each module is m
 
 The block diagram of µC Computer 2 is as follows:
 
+![ Figure 1 ](/Pictures/Figure1.png)
+
+Communication between modules is done using Parallel Bus or Serial Bus such as I2C or SPI.
+
 
